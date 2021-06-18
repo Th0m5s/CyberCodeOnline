@@ -68,7 +68,7 @@
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Votre ordinateur personnel, quoique un peu vieillissant, peut faire le boulot avec assez de patience",
+ 	 	 	 	"trans": "Votre ordinateur personnel, quoiqu'un peu vieillissant, peut faire le boulot avec assez de patience",
  	 	 	 	"eng": "Your personal computer, although its a little outdated, it could get the job done with enough patient"
  	 	 	}
  	 	},
@@ -86,31 +86,31 @@
  	 	},
  	 	"equipmentUpgrade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Station",
+ 	 	 	 	"trans": "Station de calibration",
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with necessary tools allows you to tinker with your equipment.",
+ 	 	 	 	"trans": "Un établi avec les outils nécessaires permet de bricoler votre équipement.",
  	 	 	 	"eng": "A workbench with necessary tools allows you to tinker with your equipment."
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Le commerce de Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family run trading shop that lets you trade with what they have found while scavenging",
+ 	 	 	 	"trans": "Une boutique familiale de génération en génération qui vous permet de d'acheter ce qu'ils trouvent dans les déchets.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	}
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Automatic Recycler",
+ 	 	 	 	"trans": "Recycleur automatique",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "Recycleur entièrement automatisé, capable de recycler les objets en leurs composants de base",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -170,7 +170,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant de tout le globe.",
+ 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant du monde entier.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -203,13 +203,13 @@
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Vous pouvez acheter ou vendre des objets à d'autres joueurs ici",
+ 	 	 	 	 	"trans": "Vous pouvez commercer avec d'autres joueurs ici",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "Aller au QG du gang",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -225,7 +225,7 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au centre-ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -241,14 +241,14 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au centre-ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gare Centrale des Hypertrains",
+ 	 	 	 	"trans": "Gare Centrale d'Hypertrain",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -259,7 +259,7 @@
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville",
+ 	 	 	 	 	"trans": "Retour au centre-ville",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -346,17 +346,17 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "go to ${segmentStationName}",
+ 	 	 	 	"trans": "Aller à ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	}
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Headquarter",
+ 	 	 	 	"trans": "QG du gang",
  	 	 	 	"eng": "Gang Headquarter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Un QG pour vous et les membres de votre gang où planifier et exécuter votre prochaine opération.",
  	 	 	 	"eng": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation"
  	 	 	}
  	 	}
@@ -420,13 +420,13 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "armure haute",
+ 	 	 	 	"trans": "plastron",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "armure basse",
+ 	 	 	 	"trans": "jambières",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
@@ -448,7 +448,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Avez-vous des maux de tête ? Utilisez un anti-douleurs pour vous soulager !",
+ 	 	 	 	"trans": "Avez-vous des maux de tête ? Utilisez un anti-douleur pour vous soulager !",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -458,7 +458,7 @@
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vieux nano bot de réparation, généralement utilisé pour réparer de petits appareils technologiques",
+ 	 	 	 	"trans": "Vieux nano bot de réparation, généralement utilisé pour réparer de petits appareils.",
  	 	 	 	"eng": "Old nano repair bot, usually used to repair small tech devices"
  	 	 	}
  	 	},
@@ -468,7 +468,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vieux nano bot médical, faites une injection pour soigner toute (*voir conditions) blessure !",
+ 	 	 	 	"trans": "Vieux nano bot médical, faites une injection pour soigner n'importe quelle blessure! (*voir conditions)",
  	 	 	 	"eng": "Old nano Medic bot, inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -478,7 +478,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "faites une injection pour soigner toute (*voir conditions) blessure !",
+ 	 	 	 	"trans": "faites une injection pour soigner n'importe quelle blessure! (*voir conditions)",
  	 	 	 	"eng": "inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -488,7 +488,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano machines injectables standards pour un usage militaire, soins possibles pendant le combat.",
+ 	 	 	 	"trans": "Nano machines injectables standards pour usage militaire, peuvent soigner pendant le combat.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use, capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -524,11 +524,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Spray Anti-douleurs",
+ 	 	 	 	"trans": "Spray Anti-douleur",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Est-ce que votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleurs™ pour vous soulager !",
+ 	 	 	 	"trans": "Votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleur™ pour vous soulager !",
  	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -604,11 +604,11 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "partie de techno médical",
+ 	 	 	 	"trans": "Fragments de technologie médicale",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médical, permettant de fabriquer des objets de soin... si vous comprenez comment",
+ 	 	 	 	"trans": "Morceaux et pièces d'une technologie médicale usagée, permet de fabriquer des objets de soin... si vous comprenez comment.",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -618,17 +618,17 @@
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "bloc mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez en tirer de l'expérience",
+ 	 	 	 	"trans": "Bloc mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez gagner de l'expérience",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Processeur de hash",
+ 	 	 	 	"trans": "Processeur de hachage",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur s'épuisse facilement,\r\n         Vous pouvez l'utiliser pour miner des BitCoin a la [ZONE DE TAFF]",
+ 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur est facilement surchargé,\r\n         Vous pouvez l'utiliser pour miner des BitCoin a la [ZONE DE TAFF]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -638,7 +638,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptiques afin de les doter de capacités mentales surhumains pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK 5% plus vite pendant 10 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -648,7 +648,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptiques afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK 40% plus vite pendant 20 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -658,7 +658,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielle de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal grâce à l'installation d'implants, ce qui augmente les capacités mémorielled de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pendant 20 minutes\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhance their Frontal Cortex integration with cyberwares installed, thus increase memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -668,57 +668,57 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime de  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pendant 20 minutes (stackable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
  	 	"aiCore": {
  	 	 	"name": {
- 	 	 	 	"trans": "AI Core",
+ 	 	 	 	"trans": "Cœur d'IA",
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you.",
+ 	 	 	 	"trans": "Unité de Traitement Neuronal (UTN) utilisée dans le commerce. Fournie avec une IA polyvalente. \r\n        Vous pouvez l'utiliser pour déployer un bot de farm de dongeons autonome.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Energy Cell",
+ 	 	 	 	"trans": "Cellule d'énergie",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons",
+ 	 	 	 	"trans": "Dispositif de stockage d'énergie portable. Peut être utilisé comme munition pour vos armes spéciales.",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti Matter Charge",
+ 	 	 	 	"trans": "Charge d'anti matière",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. ",
+ 	 	 	 	"trans": "Générateur d'énergie anti matière high-tech, miniaturisé et à usage unique. \r\n        Cet objet produit d'énormes quantités d'énergie. Utilisable comme munition pour vos armes de destruction. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammunition tech parts",
+ 	 	 	 	"trans": "Fragments de munition technique",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how.",
+ 	 	 	 	"trans": "Fragments de munition technique, ils peuvent couramment trouvés en circulation au marché noir. \r\n        Vous pouvez les utiliser pour fabriquer des munitions... si vous comprenez comment.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military ammunition tech parts",
+ 	 	 	 	"trans": "Fragments de munition technique militaire",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how",
+ 	 	 	 	"trans": "Fragments de munition technique de qualité militaire, couramment utilisées par le gouvernement, l'armée et les élites. Peut être utilisé pour fabriquer des munit6si vous avez le savoir-faire.",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
@@ -782,141 +782,141 @@
  	 	},
  	 	"clanDungeonKey": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Invasion Order Transmitter",
+ 	 	 	 	"trans": "Transmetteur d'ordre d'invasion de gang",
  	 	 	 	"eng": "Gang Invasion Order Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons",
+ 	 	 	 	"trans": "Un simple appareil de transmition qui peut être connecté à votre réseau de gang crypté et ainsi donner des ordres d'invasion.\r\n        Cet objet est requis pour débloquer les dongeons de gang.",
  	 	 	 	"eng": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons"
  	 	 	}
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Supply Crate [Gang]",
+ 	 	 	 	"trans": "Caisse d'approvisionnement [Gang]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter",
+ 	 	 	 	"trans": "Contient divers objets et ressources pour un gang efficace.\r\n        Cliquez "Utiliser" pour l'envoyer au QG de votre gang.",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "encrypted gang memory shard",
+ 	 	 	 	"trans": "Tronçon de mémoire de gang cryptée",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)",
+ 	 	 	 	"trans": "Un tronçon de mémoire contient des secrets de gang cryptés, \r\n        décriptez-le dans votre QG de gang pour gagner des connaissances utiles (requière l'adhésion à un gang).",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
  	 	"upgradeActivator": {
  	 	 	"name": {
- 	 	 	 	"trans": "Equipment Calibration Core",
+ 	 	 	 	"trans": "Cœur de calibration d'équipement",
  	 	 	 	"eng": "Equipment Calibration Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments",
+ 	 	 	 	"trans": "Un tronçon de mémoire du marché noir contient des algorithmes et des schémas hautement cryptés mais cruciaux pour améliorer vos équipements.",
  	 	 	 	"eng": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser0": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (5%)",
+ 	 	 	 	"trans": "Tronçon d'IA de calibration (5%)",
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes.",
+ 	 	 	 	"trans": "Contient des fragments d'IA avancée conçue pour aider à l'amélioration d'équipements.\r\n        Quand utilisé, diminue les chances d'échec critique de 5% pendant 5 minutes (stackable).",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes."
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (10%)",
+ 	 	 	 	"trans": "Tronçon d'IA de calibration (10%)",
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes.",
+ 	 	 	 	"trans": "Contient des fragments d'IA avancée conçue pour aider à l'amélioration d'équipements.\r\n        Quand utilisé, diminue les chances d'échec critique de 10% pendant 5 minutes (stackable).",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes."
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (50%)",
+ 	 	 	 	"trans": "Tronçon d'IA de calibration (50%)",
  	 	 	 	"eng": "Calibration AI Shard (50%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online",
+ 	 	 	 	"trans": "Contient des fragments d'IA avancée conçue pour aider à l'amélioration d'équipements.\r\n        Quand utilisé, diminue les chances d'échec critique de 50% pendant 5 minutes (stackable).",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (100%)",
+ 	 	 	 	"trans": "Tronçon d'IA de calibration (100%)",
  	 	 	 	"eng": "Calibration AI Shard (100%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online",
+ 	 	 	 	"trans": "Contient des fragments d'IA avancée conçue pour aider à l'amélioration d'équipements.\r\n        Quand utilisé, diminue les chances d'échec critique de 100% pendant 5 minutes (stackable). Cet effet s'applique à tous les joueurs en ligne.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Safety Nano Bots",
+ 	 	 	 	"trans": "Nano robots de calibration de sécurité",
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes",
+ 	 	 	 	"trans": "Nano robots expérimentaux conçu pour annuler l'anihilation lors d'un échec de calibration.\r\n        Quand activés, les échecs de calibration ne détruiront pas l'objet pendant 5 minutes.",
  	 	 	 	"eng": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes"
  	 	 	}
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Vieux sac",
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Un vieux sac oublié,\r\n        il y a une étrange grenouille cartoon avec une grosse bouche et des lèvres rouges dessinée sur un côté.\r\n        Le sens de ce dessin de mauvaise augure est inconnu, mais c'est pratique pour garder quelques petits objets dedans.\r\n        Augmente la taille de l'inventaire quand équipé.",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Banane",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Une banane cool et fashion, signée par une légende nommée The Rock des décennies plus tôt.\r\n        Augmente la taille de l'inventaire quand équipée.",
  	 	 	 	"eng": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Sac à dos d'explorateur",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Un vieux sac à dos violet 'Explorateur' de maternelle, il y a une étiquette avec le nom de la précédente propriétaire marqué dessus,\"Dora\". Vous êtes magnifique avec!\r\n        Augmente la taille de l'inventaire quand equipé.",
  	 	 	 	"eng": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Employee Office Case",
+ 	 	 	 	"trans": "Malette d'employé de bureau",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Une mallette standard, il y a une étiquette avec l'impression blanche \"Arasaka\" dessus. \r\n        Elle a beau être spacieuse et avoir quelques fonctionnalités high-tech ainsi que des fentes pour stocker des documents, ce n'est pas très pratique pour transporter des armes.\r\n        Augmente la taille de l'inventaire quand équipée.",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Autonomous Storage Unit",
+ 	 	 	 	"trans": "Unité de stockage autonome",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing",
+ 	 	 	 	"trans": "Un robot à usage militaire conçu pour porter vos équipements et vous suivre en toute autonomie.\r\n        Avec ses six solides jambes imitant le mouvement des araignées et son IA embarquée avancée,\r\n        il peut vous suivre rapidement et silencieusement tout en évitant d'être dans le passage, quelquesoit la mission que vous fassiez.",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	}
@@ -924,25 +924,25 @@
  	"action": {
  	 	"autoFarm": {
  	 	 	"name": {
- 	 	 	 	"trans": "Deployer un robot de récolte",
+ 	 	 	 	"trans": "Déployer un robot de récolte",
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK Exp Farm]\r\n        Déploie une IA dans un donjon pour vous. Cela utilisera un noyau d'IA, généralement ne peuvent faire qu'une seule expédition.",
+ 	 	 	 	"trans": "[AFK Exp Farm]\r\n        Déploie une IA dans un donjon pour vous. Cela utilisera un cœur d'IA, ne fait généralement qu'une seule expédition.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Vous pouvez utiliser vos noyaux d'IA pour combattre automatiquement des ennemis durant votre absence",
+ 	 	 	 	"trans": "Vous pouvez utiliser vos cœurs d'IA pour combattre automatiquement des ennemis durant votre absence.",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
  	 	"increasePrint": {
  	 	 	"name": {
- 	 	 	 	"trans": "travailler à l'usine d'impression",
+ 	 	 	 	"trans": "Travailler à l'usine d'impression",
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Améliore votre proficience en impression sans sacrifier des déchets technologiques, ce qui peut aider à améliorer le niveau de vos impressions.",
+ 	 	 	 	"trans": "Améliore votre rang d'impression sans sacrifier des déchets technologiques, ce qui peut aider à améliorer le niveau de vos impressions.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -952,7 +952,7 @@
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Téléchargez des données utiles d'une clinique de chirurgie pour concevoir des robots et drones médicaux de plus haute qualité.",
+ 	 	 	 	"trans": "Téléchargez les données utiles d'une clinique de chirurgie pour concevoir des robots et drones médicaux de plus haute qualité.",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
@@ -962,7 +962,7 @@
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bricolez avec les munitions, pour trouver des méthodes de manufacture plus efficaces.",
+ 	 	 	 	"trans": "Bricolez avec les munitions pour trouver des méthodes de manufacture plus efficaces.",
  	 	 	 	"eng": "Tinker with ammunition, to find more effective ways of crafting it."
  	 	 	}
  	 	},
@@ -972,17 +972,17 @@
  	 	 	 	"eng": "Reverse Engineer Scraps"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Faites de la rétro-ingénierie avec des déchets technologiques pour améliorer votre proficience en impression. \r\n        Vous aurez besoin de sacrifier quelques déchets technologiques.",
+ 	 	 	 	"trans": "Faites de la rétro-ingénierie avec des déchets technologiques pour améliorer votre rang d'impression. \r\n        Vous aurez besoin de sacrifier quelques déchets technologiques.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "initialiser la séquence de cryptominage",
+ 	 	 	 	"trans": "Initialiser la séquence de cryptominage",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vous lancer dans le cryptominage vous rapportera des Bitcoins. Néanmoins, dû à l'utilisation intenses des Processeurs de Hashage, l'Unité de Processus Quantique, autrement connue sous le nom de UPQ, risque de souvent surchauffer et brûler.",
+ 	 	 	 	"trans": "Vous lancer dans le cryptominage vous rapportera des Bitcoins. Néanmoins, dû à l'utilisation intenses des Processeurs de Hachage, l'Unité de Processus Quantique, autrement connue sous le nom de UPQ, risque de souvent surchauffer et brûler.",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -1004,21 +1004,21 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gather Clan Resource",
+ 	 	 	 	"trans": "Rassembler des ressources de clan",
  	 	 	 	"eng": "Gather Clan Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Help gather and manage needed resources for your clan",
+ 	 	 	 	"trans": "Aide à rassembler et gérer les ressources nécessaires à votre clan.",
  	 	 	 	"eng": "Help gather and manage needed resources for your clan"
  	 	 	}
  	 	},
  	 	"clanDecryptShard": {
  	 	 	"name": {
- 	 	 	 	"trans": "Decrypt memory shard",
+ 	 	 	 	"trans": "Décrypter des tronçons mémoire",
  	 	 	 	"eng": "Decrypt memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Decrypt memory shard you found to retrieve useful intel",
+ 	 	 	 	"trans": "Décryptez les tronçons mémoire que vous trouvez afin de récupérer des connaissances utiles.",
  	 	 	 	"eng": "Decrypt memory shard you found to retrieve useful intel"
  	 	 	}
  	 	}
@@ -1026,7 +1026,7 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "défaillant",
+ 	 	 	 	"trans": "déchet",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
@@ -1083,7 +1083,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Plongez dans le donjon pour obtenir encore plus d'expérience et de récompenses!\r\n                        N'oubliez pas d'acheter des objets de soin! Vous ne vous régénèrerez pas après un combat dans un donjon",
+ 	 	 	 	"trans": "Entrez dans le donjon pour obtenir encore plus d'expérience et de récompenses!\r\n                        N'oubliez pas d'acheter des objets de soin! Vous ne vous régénèrerez pas après un combat dans un donjon.",
  	 	 	 	"eng": "Dive into dungeon to get even more exp and loot!\r\n                        remember to buy some healing item! you won\"t regen after battle in dungeon"
  	 	 	}
  	 	},
@@ -1098,7 +1098,7 @@
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Êtes-vous assez fort ? Essayez donc dans le Donjon Challenge,\r\n                        il y a un boss puissant et des tonnes de récompenses vous attendant à la fin!\r\n                        Il est recommandé d'essayer avec d'autres joueurs.",
+ 	 	 	 	"trans": "Êtes-vous assez fort ? Testez-vous dans le Donjon Challenge,\r\n                        il y a un boss puissant et des tonnes de récompenses vous attendant à la fin!\r\n                        Il est recommandé d'essayer avec d'autres joueurs.",
  	 	 	 	"eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players."
  	 	 	},
  	 	 	"startName": {
@@ -1114,7 +1114,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "invade ${zoneName}",
+ 	 	 	 	"trans": "envahir ${zoneName}",
  	 	 	 	"eng": "invade ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1123,7 +1123,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
+ 	 	 	 	"trans": "Niveau recommandé:　${maxLevel}+ avec co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low"
  	 	 	}
  	 	}
@@ -1137,7 +1137,7 @@
  	 	 	"eng": "${segmentDisplayName} Secret Key"
  	 	},
  	 	"unlockVerb": {
- 	 	 	"trans": "force brutale",
+ 	 	 	"trans": "force brute",
  	 	 	"eng": "brute-force"
  	 	}
  	},
@@ -1146,7 +1146,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Acquérir 3 fragments de clé différent de chaque donjon localisé dans ${segmentDisplayName},\r\n                elles sont utilisées pour créer la clé de la zone suivante.\r\n                Pour créer la clé, allez au terminal dans le [HUB]",
+ 	 	 	"trans": "Obtenez 3 fragments de clé différents dans chaque donjon localisé dans ${segmentDisplayName},\r\n                ils seront utilisés pour créer la clé de la zone suivante.\r\n                Pour créer la clé, allez au terminal dans le [HUB]",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
  	 	 	"name": {
  	 	 	 	"vars": [
@@ -1159,31 +1159,31 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Acquérir 3 fragments de clé différent de chaque donjon localisé dans ${segmentDisplayName},\r\n                elles sont utilisées pour créer la clé de la zone suivante.\r\n                Pour créer la clé, allez au terminal dans le [HUB]",
+ 	 	 	 	"trans": "Obtenez 3 fragments de clé différents dans chaque donjon localisé dans ${segmentDisplayName},\r\n                ils seront utilisés pour créer la clé de la zone suivante.\r\n                Pour créer la clé, allez au terminal dans le [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "donjon warrior",
+ 	 	 	 	 	"trans": "guerrier du donjon",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "donjon ami",
+ 	 	 	 	 	"trans": "amis du donjon",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "donjon crawler",
+ 	 	 	 	 	"trans": "enchaineurs de donjon",
  	 	 	 	 	"eng": "dungeon crawler"
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Infliger du Dégat",
+ 	 	 	 	"trans": "Infliger des dégâts",
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
@@ -1191,11 +1191,11 @@
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
- 	 	 	 	"trans": "Joindre Donjon",
+ 	 	 	 	"trans": "Entrer dans un donjon",
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
- 	 	 	 	"trans": "Tuer l'ennemie",
+ 	 	 	 	"trans": "Tuer l'ennemi",
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
@@ -1221,11 +1221,11 @@
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
- 	 	 	 	"trans": "Demande en cours...",
+ 	 	 	 	"trans": "En cours...",
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
- 	 	 	 	"trans": "Regardez une annonce pour rafraîchir la quête",
+ 	 	 	 	"trans": "Regardez une annonce pour remplacer la quête",
  	 	 	 	"eng": "Watch an AD to refresh quest"
  	 	 	}
  	 	},
@@ -1257,11 +1257,11 @@
  	 	 	 	"eng": "location"
  	 	 	},
  	 	 	"onlineStatus": {
- 	 	 	 	"trans": "connexion du système",
+ 	 	 	 	"trans": "connexion au système",
  	 	 	 	"eng": "system link"
  	 	 	},
  	 	 	"streetCred": {
- 	 	 	 	"trans": "Réputation de la rue",
+ 	 	 	 	"trans": "Réputation",
  	 	 	 	"eng": "Street Cred"
  	 	 	},
  	 	 	"status": {
@@ -1274,7 +1274,7 @@
  	 	 	},
  	 	 	"gangAction": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Les Actions Du Gang",
+ 	 	 	 	 	"trans": "Actions Du Gang",
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
@@ -1304,7 +1304,7 @@
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
- 	 	 	 	 	"trans": "ajouter à la liste d'Ami",
+ 	 	 	 	 	"trans": "Ajouter à la liste d'Ami",
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
@@ -1312,7 +1312,7 @@
  	 	 	 	 	"eng": "Remove from Friend List"
  	 	 	 	},
  	 	 	 	"giveStreetCred": {
- 	 	 	 	 	"trans": "Don de Street Cred",
+ 	 	 	 	 	"trans": "Don de réputation",
  	 	 	 	 	"eng": "Give Street Cred"
  	 	 	 	}
  	 	 	},
@@ -1321,24 +1321,24 @@
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
- 	 	 	 	"trans": "EXPURGÉ",
+ 	 	 	 	"trans": "EDITÉ",
  	 	 	 	"eng": "REDACTED"
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Chiner",
+ 	 	 	 	"trans": "Regarder aux alentours",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "Mon étale",
+ 	 	 	 	"trans": "Mon stand",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Augmenter l'inventaire à ${nextSlotSize}",
+ 	 	 	 	"trans": "Augmenter jusqu'à ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	}
  	 	},
@@ -1374,7 +1374,7 @@
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "générique",
+ 	 	 	 	"trans": "crédits",
  	 	 	 	"eng": "credits"
  	 	 	}
  	 	},
@@ -1390,7 +1390,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "Ce pack de langage est open source et constitué par d'autres joueurs, le texte traduit n'est peut-être pas complet et peut contenir des erreurs. n'hésitez pas à participer à son édition sur notre page Github",
+ 	 	 	 	"trans": "Ce pack de langage est open source et est constitué par les joueurs, le jeu n'est peut-être pas entièrement traduit et peut contenir des erreurs. N'hésitez pas à participer à son édition sur notre page Github!",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
@@ -1398,11 +1398,11 @@
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "L'application redémarre automatiquement après la sauvegarde",
+ 	 	 	 	"trans": "L'application redémarrera automatiquement après la sauvegarde",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "save",
+ 	 	 	 	"trans": "sauvegarder,
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
@@ -1410,17 +1410,17 @@
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Receive Gang Notification",
+ 	 	 	 	"trans": "Recevoir des notifications de gang",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Receive Global Buff Notification",
+ 	 	 	 	"trans": "Recevoir des notofi6de buff global",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	}
  	 	},
  	 	"captcha": {
  	 	 	"title": {
- 	 	 	 	"trans": "Entrer le code pour poursuivre",
+ 	 	 	 	"trans": "Entrer le code d'accès pour poursuivre",
  	 	 	 	"eng": "Enter system passcode to proceed"
  	 	 	}
  	 	},
@@ -1430,11 +1430,11 @@
  	 	 	 	"eng": "fatal injury"
  	 	 	},
  	 	 	"topTitleRight": {
- 	 	 	 	"trans": "Centre Médical SL",
+ 	 	 	 	"trans": "Centre Médical de Shangri-La",
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Arrêt Cardiaque",
+ 	 	 	 	"trans": "Arrêt cardiaque",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -1442,7 +1442,7 @@
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
- 	 	 	 	"trans": "Re-connection en cours",
+ 	 	 	 	"trans": "Reconnexion en cours",
  	 	 	 	"eng": "Re-establishing connection"
  	 	 	}
  	 	},
@@ -1455,122 +1455,122 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please enter amount you want to deposit",
+ 	 	 	 	 	"trans": "Entrez la valeur du dépôt",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed",
+ 	 	 	 	 	"trans": "${amount} bitcoin(s) sera/seront déposé(s) dans votre compte de gang et ne pourra/pourront pas être recuperé(s).",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Deposit Bitcoin",
+ 	 	 	 	"trans": "Dépôt de Bitcoin",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Gang Level",
+ 	 	 	 	"trans": "Niveau du gang",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Resource",
+ 	 	 	 	"trans": "Ressource",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "funding",
+ 	 	 	 	"trans": "financements",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "members",
+ 	 	 	 	"trans": "membres",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Next upkeep Date: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Date de la prochaine maintenance: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "resource critical",
+ 	 	 	 	"trans": "ressource essentielle",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "Insufficient Found",
+ 	 	 	 	"trans": "Fonds insuffisants",
  	 	 	 	"eng": "Insufficient Found"
  	 	 	},
  	 	 	"insufficientResource": {
- 	 	 	 	"trans": "Insufficient Resource",
+ 	 	 	 	"trans": "Ressources insuffisantes",
  	 	 	 	"eng": "Insufficient Resource"
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "Members",
+ 	 	 	 	"trans": "Membres",
  	 	 	 	"eng": "Members"
  	 	 	}
  	 	},
  	 	"equipmentDisplay": {
  	 	 	"empty": {
- 	 	 	 	"trans": "Empty",
+ 	 	 	 	"trans": "Vide",
  	 	 	 	"eng": "Empty"
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Dungeon List",
+ 	 	 	 	"trans": "List des dongeons",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "links",
+ 	 	 	 	"trans": "liens",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Magasin Premium",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
- 	 	 	 	"trans": "Friend List",
+ 	 	 	 	"trans": "Liste d'amis",
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Leader Board",
+ 	 	 	 	"trans": "Tableau des leaders",
  	 	 	 	"eng": "Leader Board"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Skip Queue",
+ 	 	 	 	"trans": "Passer la file",
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"settings": {
- 	 	 	 	"trans": "Settings",
+ 	 	 	 	"trans": "Paramètres",
  	 	 	 	"eng": "Settings"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "system idle",
+ 	 	 	 	 	"trans": "système inactif",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Please inset an item",
+ 	 	 	 	 	"trans": "Veuillez insérer un objet",
  	 	 	 	 	"eng": "Please inset an item"
  	 	 	 	}
  	 	 	},
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Recycle Item",
+ 	 	 	 	"trans": "Recycler l'objet",
  	 	 	 	"eng": "Recycle Item"
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please select amount",
+ 	 	 	 	 	"trans": "Veuillez sélectionner un montant",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "This will take ${timeStr}",
+ 	 	 	 	 	"trans": "Cela prendra ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1582,27 +1582,27 @@
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Destructive failure accrued",
+ 	 	 	 	 	"trans": "Échec dévastateur cumulé",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Calibration Success",
+ 	 	 	 	 	"trans": "Succès de la calibration",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "No error detected",
+ 	 	 	 	 	"trans": "Pas d'erreur détectée",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Are you sure you want to leave this dungeon?",
+ 	 	 	 	 	"trans": "Êtes-vous sûr de vouloir quitter ce donjon ?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "You will not be able to enter this dungeon instance again",
+ 	 	 	 	 	"trans": "Vois me pourrez plus y entrer de nouveau.",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1610,80 +1610,80 @@
  	 	"equipmentUpgrade": {
  	 	 	"notActivated": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Core not found",
+ 	 	 	 	 	"trans": "Cœur introuvable",
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Please insert Calibration Core",
+ 	 	 	 	 	"trans": "Veuillez insérer un cœur de calibration",
  	 	 	 	 	"eng": "Please insert Calibration Core"
  	 	 	 	}
  	 	 	},
  	 	 	"activate": {
- 	 	 	 	"trans": "Insert Core",
+ 	 	 	 	"trans": "Insérez un cœur",
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Processing",
+ 	 	 	 	 	"trans": "En traitement...",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Decrypting shard",
+ 	 	 	 	 	"trans": "Décryptage du tronçon...",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "equipment not found",
+ 	 	 	 	 	"trans": "équipement introuvable",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Select an equipment to continue",
+ 	 	 	 	 	"trans": "Sélectionnez un équipement pour continuer",
  	 	 	 	 	"eng": "Select an equipment to continue"
  	 	 	 	}
  	 	 	},
  	 	 	"haveEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Compatible Item Identified",
+ 	 	 	 	 	"trans": "Objet compatible identifié",
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "All system ready",
+ 	 	 	 	 	"trans": "Tous les systèmes sont parés",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Chance of destructive failure",
+ 	 	 	 	"trans": "Chance d'échec critique",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
- 	 	 	 	"trans": "Please select an item to calibrate",
+ 	 	 	 	"trans": "Veuillez sélectionner un objet à calibrer",
  	 	 	 	"eng": "Please select an item to calibrate"
  	 	 	},
  	 	 	"upgradeButton": {
- 	 	 	 	"trans": "Calibrate",
+ 	 	 	 	"trans": "Calibrer",
  	 	 	 	"eng": "Calibrate"
  	 	 	}
  	 	},
  	 	"itemInbox": {
  	 	 	"getAllItems": {
- 	 	 	 	"trans": "Get All Items",
+ 	 	 	 	"trans": "Voir tous les objets",
  	 	 	 	"eng": "Get All Items"
  	 	 	}
  	 	},
  	 	"linkPage": {
  	 	 	"forum": {
- 	 	 	 	"trans": "Official Forum",
+ 	 	 	 	"trans": "Forum officiel",
  	 	 	 	"eng": "Official Forum"
  	 	 	}
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "Equipment Cache not found",
+ 	 	 	 	"trans": "Cache d'équipement introuvable",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "gather the caches from enemies and dungeons to print your new weapons and armor",
+ 	 	 	 	"trans": "Rassembler les caches des ennemis et donjons pour imprimer vos nouvelles armes et armures.",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	}
@@ -1734,7 +1734,7 @@
  	 	 	"eng": "Shield"
  	 	},
  	 	"health": {
- 	 	 	"trans": "Vie",
+ 	 	 	"trans": "Santé",
  	 	 	"eng": "Health"
  	 	},
  	 	"statusEffect": {
@@ -1742,26 +1742,26 @@
  	 	 	"eng": "Status Effects"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "not tradable",
+ 	 	 	"trans": "invendable",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Calibration Capacity",
+ 	 	 	"trans": "Capacité de collaboration",
  	 	 	"eng": "Collaboration Capacity"
  	 	},
  	 	"systemStandby": {
- 	 	 	"trans": "System standby",
+ 	 	 	"trans": "Attente du système",
  	 	 	"eng": "System standby"
  	 	}
  	},
  	"statsType": {
  	 	"health": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vie",
+ 	 	 	 	"trans": "Santé",
  	 	 	 	"eng": "Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Augmenter le maximum de Vie",
+ 	 	 	 	"trans": "Augmenter la santé maximum",
  	 	 	 	"eng": "Increases maximum health"
  	 	 	}
  	 	},
@@ -1771,23 +1771,23 @@
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diminue les dégats reçu des ennemis",
+ 	 	 	 	"trans": "Diminue les dégats  infligés pas les ennemis",
  	 	 	 	"eng": "Decrease damage taken from enemy"
  	 	 	}
  	 	},
  	 	"healthRegen": {
  	 	 	"name": {
- 	 	 	 	"trans": "régen de Vie",
+ 	 	 	 	"trans": "régénérer la santé",
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Régénere une partie de la vie après la fin du combat",
+ 	 	 	 	"trans": "Régénère une partie de la santé après la fin du combat",
  	 	 	 	"eng": "Amount of health regenerated after end of combat"
  	 	 	}
  	 	},
  	 	"damage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dommage",
+ 	 	 	 	"trans": "Dégât",
  	 	 	 	"eng": "Damage"
  	 	 	},
  	 	 	"description": {
@@ -1797,7 +1797,7 @@
  	 	},
  	 	"critChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Chance de Crit",
+ 	 	 	 	"trans": "Chance de Critique",
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
@@ -1807,17 +1807,17 @@
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dégats Crit",
+ 	 	 	 	"trans": "Dégats Critiques",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Influence les dégats des attaques Crit que vous faites aux ennemis",
+ 	 	 	 	"trans": "Influence les dégats des attaques Critiques que vous faites aux ennemis",
  	 	 	 	"eng": "Influence the critical attack damage you deal to the enemy"
  	 	 	}
  	 	},
  	 	"maxShield": {
  	 	 	"name": {
- 	 	 	 	"trans": "BouclierMax",
+ 	 	 	 	"trans": "Bouclier Max",
  	 	 	 	"eng": "MaxShield"
  	 	 	},
  	 	 	"description": {
@@ -1847,7 +1847,7 @@
  	 	 	 	"eng": "Stun chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance d'étourdir l'ennemi quand vous causer des dégats, \r\n    les rendant incapables de répondre à votre attaque",
+ 	 	 	 	"trans": "Chance d'étourdir l'ennemi quand vous causer des dégats, \r\n    le rendant incapable de répliquer",
  	 	 	 	"eng": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack"
  	 	 	}
  	 	},
@@ -1857,7 +1857,7 @@
  	 	 	 	"eng": "Evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance d'esquiver une attaque ennemi",
+ 	 	 	 	"trans": "Chance d'esquiver une attaque ennemie",
  	 	 	 	"eng": "Chance of you dodging an enemies attack"
  	 	 	}
  	 	},
@@ -1887,7 +1887,7 @@
  	 	 	 	"eng": "Damage multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Augmente le pourcentage de dommage",
+ 	 	 	 	"trans": "Augmente le pourcentage de dommages",
  	 	 	 	"eng": "Increases damage by percentage"
  	 	 	}
  	 	},
@@ -1897,13 +1897,13 @@
  	 	 	 	"eng": "Defence multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diminue le pourcentage de dommage reçu",
+ 	 	 	 	"trans": "Diminue le pourcentage de dommages reçus",
  	 	 	 	"eng": "Decreases damage received by percentage"
  	 	 	}
  	 	},
  	 	"stunEvade": {
  	 	 	"name": {
- 	 	 	 	"trans": "anti étourdissement",
+ 	 	 	 	"trans": "Anti étourdissement",
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
@@ -1917,7 +1917,7 @@
  	 	 	 	"eng": "Shield multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Augmente le pourcentage de force du bouclier",
+ 	 	 	 	"trans": "Augmente le pourcentage d'absorbtion du bouclier",
  	 	 	 	"eng": "Increase strength of shield by percentage"
  	 	 	}
  	 	},
@@ -1957,37 +1957,37 @@
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Augmente les Bitcoins reçu",
+ 	 	 	 	"trans": "Augmente les Bitcoins reçus",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	},
  	 	"maxHealth": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vie Max",
+ 	 	 	 	"trans": "Santé Max",
  	 	 	 	"eng": "Max Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Capacité de vie maximum",
+ 	 	 	 	"trans": "Capacité de santé maximum",
  	 	 	 	"eng": "Maximum health capacity"
  	 	 	}
  	 	},
  	 	"upgradeChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Chance",
+ 	 	 	 	"trans": "Chanve de calibration",
  	 	 	 	"eng": "Calibration Chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reduces chance of destructive failure when calibrating items",
+ 	 	 	 	"trans": "Réduit les chances d'échec critique lors de la calibration d'objets.",
  	 	 	 	"eng": "Reduces chance of destructive failure when calibrating items"
  	 	 	}
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Safety",
+ 	 	 	 	"trans": "Sûreté de calibration",
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Calibration fails will not destroy the item",
+ 	 	 	 	"trans": "L'echec6de calibration ne détruira pas l'objet.",
  	 	 	 	"eng": "Calibration fails will not destroy the item"
  	 	 	}
  	 	}
@@ -2013,7 +2013,7 @@
  	"recipe": {
  	 	"unlockLootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dévérouiller le Coffre",
+ 	 	 	 	"trans": "Dévérouiller le coffre",
  	 	 	 	"eng": "Unlock Container"
  	 	 	}
  	 	},
@@ -2035,35 +2035,35 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Vieux sac",
  	 	 	 	"eng": "Old Pouch"
  	 	 	}
  	 	},
  	 	"trade": {
- 	 	 	"trans": "Trade",
+ 	 	 	"trans": "Marché",
  	 	 	"eng": "Trade"
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Pack de Fanny",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Sac à dos de l'explorateur",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Employee Office Case",
+ 	 	 	 	"trans": "Mallette de l'employé de bureau",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	}
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Autonomous Storage Unit",
+ 	 	 	 	"trans": "Unite6de stockage autonome",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	}
  	 	}
@@ -2093,14 +2093,14 @@
  	"modal": {
  	 	"levelUp": {
  	 	 	"title": {
- 	 	 	 	"trans": "MONTER NIVEAU",
+ 	 	 	 	"trans": "MONTER DE NIVEAU",
  	 	 	 	"eng": "LEVEL UP"
  	 	 	},
  	 	 	"subTitle": {
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Félicitation, vous avez monter de niveau votre ${levelName}!",
+ 	 	 	 	"trans": "Félicitations, vous êtes monté de niveau votre ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -2118,7 +2118,7 @@
  	 	 	"vars": [
  	 	 	 	"tierName"
  	 	 	],
- 	 	 	"trans": "Ceci est un exemple de bannières Tier ${tierName}",
+ 	 	 	"trans": "Ceci est un exemple de bannière de chat Tier ${tierName}",
  	 	 	"eng": "This is an example chat frame of ${tierName} Tier"
  	 	}
  	},
@@ -2127,21 +2127,21 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "${clanResource} gang resource",
+ 	 	 	"trans": "${clanResource} ressource du gang",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "${clanExp} gang exp",
+ 	 	 	"trans": "${clanExp} expérience du gang",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "${clanMoney} gang funding",
+ 	 	 	"trans": "${clanMoney} fond du gang",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	}
  	}
