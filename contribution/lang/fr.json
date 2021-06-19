@@ -68,7 +68,7 @@
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Votre ordinateur personnel, quoique un peu vieillissant, peut faire le boulot avec assez de patience",
+ 	 	 	 	"trans": "Votre ordinateur personnel, quoiqu'un peu vieillissant, peut faire le boulot avec assez de patience",
  	 	 	 	"eng": "Your personal computer, although its a little outdated, it could get the job done with enough patient"
  	 	 	}
  	 	},
@@ -86,31 +86,31 @@
  	 	},
  	 	"equipmentUpgrade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Station",
+ 	 	 	 	"trans": "Station de calibration",
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with necessary tools allows you to tinker with your equipment.",
+ 	 	 	 	"trans": "Un établi avec les outils nécessaires au bricolage de votre équipement.",
  	 	 	 	"eng": "A workbench with necessary tools allows you to tinker with your equipment."
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Le commerce de Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family run trading shop that lets you trade with what they have found while scavenging",
+ 	 	 	 	"trans": "Un magasin familial où vous pouvez commercer avec ce qu'ils ont trouvé en fouillant les déchets.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	}
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Automatic Recycler",
+ 	 	 	 	"trans": "Recycleur automatique",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "Un recycleur entièrement automatisé capable de recycler les objets en leurs composants de base.",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -170,7 +170,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant de tout le globe.",
+ 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant du monde entier.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -203,13 +203,13 @@
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Vous pouvez acheter ou vendre des objets à d'autres joueurs ici",
+ 	 	 	 	 	"trans": "Vous pouvez commercer avec d'autres joueurs ici",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "Aller au QG du gang",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -220,12 +220,12 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et Business, un endroit parfait pour essayer vos talents.",
+ 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et commerces, un endroit parfait pour essayer vos talents.",
  	 	 	 	"eng": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au centre-ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -236,12 +236,12 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Marché des Joueurs]\r\n        Le fameux marché aux puces de Shangri-La. D'innombrables échopes emplissent la rue.\r\n        Peut-être pourrez-vous trouver quelque chose dont vous avez besoin ou même monter votre propre échoppe.",
+ 	 	 	 	"trans": "[Marché des Joueurs]\r\n        Le fameux marché aux puces de Shangri-La. D'innombrables échopes emplissent la rue.\r\n        Peut-être pourrez-vous trouver quelque-chose dont vous avez besoin ou même monter votre propre échoppe.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au centre-ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -259,7 +259,7 @@
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville",
+ 	 	 	 	 	"trans": "Retour au centre-ville",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -346,17 +346,17 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "go to ${segmentStationName}",
+ 	 	 	 	"trans": "Aller à ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	}
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Headquarter",
+ 	 	 	 	"trans": "QG du gang",
  	 	 	 	"eng": "Gang Headquarter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Le quartier général de votre gang où vos membres et vous planifirez et exécuterez votre prochaine opération.",
  	 	 	 	"eng": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation"
  	 	 	}
  	 	}
@@ -420,13 +420,13 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "armure haute",
+ 	 	 	 	"trans": "plastron",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "armure basse",
+ 	 	 	 	"trans": "jambières",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
@@ -444,11 +444,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti-douleurs",
+ 	 	 	 	"trans": "Anti-douleur",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Avez-vous des maux de tête ? Utilisez un anti-douleurs pour vous soulager !",
+ 	 	 	 	"trans": "Des maux de tête ? Utilisez un anti-douleur pour vous soulager !",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -458,7 +458,7 @@
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vieux nano bot de réparation, généralement utilisé pour réparer de petits appareils technologiques",
+ 	 	 	 	"trans": "Vieux nano bot de réparation, généralement utilisé pour réparer de petits appareils.",
  	 	 	 	"eng": "Old nano repair bot, usually used to repair small tech devices"
  	 	 	}
  	 	},
@@ -468,7 +468,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vieux nano bot médical, faites une injection pour soigner toute (*voir conditions) blessure !",
+ 	 	 	 	"trans": "Vieux nano bot médical, faites une injection pour soigner n'importe quelle blessure (*voir conditions) !",
  	 	 	 	"eng": "Old nano Medic bot, inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -478,7 +478,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "faites une injection pour soigner toute (*voir conditions) blessure !",
+ 	 	 	 	"trans": "Faites une injection pour soigner n'importe quelle blessure (*voir conditions) !",
  	 	 	 	"eng": "inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -524,11 +524,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Spray Anti-douleurs",
+ 	 	 	 	"trans": "Spray Anti-douleur",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Est-ce que votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleurs™ pour vous soulager !",
+ 	 	 	 	"trans": "Votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleur™ pour vous soulager !",
  	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -604,11 +604,11 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "partie de techno médical",
+ 	 	 	 	"trans": "Partie de technologie médicale",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médical, permettant de fabriquer des objets de soin... si vous comprenez comment",
+ 	 	 	 	"trans": "Morceaux et pièces faisant partie d'une technologie médicale, permettant de fabriquer des objets de soin... si vous comprenez comment.",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -618,7 +618,7 @@
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "bloc mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez en tirer de l'expérience",
+ 	 	 	 	"trans": "Bloc mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez en tirer de l'expérience",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
@@ -628,7 +628,7 @@
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur s'épuisse facilement,\r\n         Vous pouvez l'utiliser pour miner des BitCoin a la [ZONE DE TAFF]",
+ 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur grille facilement.\r\n         Vous pouvez l'utiliser pour miner des BitCoin a la [ZONE DE TAFF]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -638,7 +638,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptiques afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK 5% plus vite pendant 10 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -648,7 +648,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptiques afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK 40% plus vite pendant 20 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -658,7 +658,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielle de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielles de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pendant 20 minutes\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhance their Frontal Cortex integration with cyberwares installed, thus increase memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -668,57 +668,57 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
+ 	 	 	 	"trans": "Diffuse vos exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pendant 20 minutes (stackable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
  	 	"aiCore": {
  	 	 	"name": {
- 	 	 	 	"trans": "AI Core",
+ 	 	 	 	"trans": "Cœur d'IA",
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you.",
+ 	 	 	 	"trans": "Unité de Traitement Neuronal (UTN) à usage commercial. Fournit avec une IA autonome. \r\n        Vous pouvez l'utiliser pour déployer un bot de farm de donjon.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Energy Cell",
+ 	 	 	 	"trans": "Cellule énergétique",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons",
+ 	 	 	 	"trans": "Dispositif de stockage d'énergie portable, peut être utilisé comme munition pour vos armes spéciales.",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti Matter Charge",
+ 	 	 	 	"trans": "Charge d'anti matière",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. ",
+ 	 	 	 	"trans": "Générateur d'énergie anti matière high-tech, miniaturisé et à usage unique.\r\n        Cet objet produit d'énormes quantités d'énergie. Vous pouvez l'utiliser en tant que munition pour votre arme destructrice.",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammunition tech parts",
+ 	 	 	 	"trans": "Parties de munitions techniques",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how.",
+ 	 	 	 	"trans": "Parties de munitions techniques, elles peuvent être communément trouvées au marché noir.\r\n        Vous pouvez les utiliser pour fabriquer des munitions... si comprenez comment.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military ammunition tech parts",
+ 	 	 	 	"trans": "Parties de munitions techniques militaires",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how",
+ 	 	 	 	"trans": "Parties de munitions de grade militaire, couramment utilisées par le gouvernement, l'armée et les élites. Peuvent être utilisées pour fabriquer des munitions avec le savoir-faire nécessaire.",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
@@ -782,47 +782,47 @@
  	 	},
  	 	"clanDungeonKey": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Invasion Order Transmitter",
+ 	 	 	 	"trans": "Transmetteur d'ordre d'invasion de gang",
  	 	 	 	"eng": "Gang Invasion Order Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons",
+ 	 	 	 	"trans": "Un simple appareil de transmission pouvant être lié à votre canal crypté de gang et ainsi donner des ordres d'invasion.\r\n        Cet objet est requis pour acr6l3s donjons de gang.",
  	 	 	 	"eng": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons"
  	 	 	}
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Supply Crate [Gang]",
+ 	 	 	 	"trans": "Caisse d'approvisionnement [Gang]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter",
+ 	 	 	 	"trans": "Contient divers objets et ressources nécessaires au fonctionnement d'un gang.\r\n        Pressez "Utiliser" pour l'envoyer au QG de votre gang.",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "encrypted gang memory shard",
+ 	 	 	 	"trans": "Eclat crypté de mémoire de gang",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)",
+ 	 	 	 	"trans": "Un éclat de mémoire contient des secrets de gang cryptés.\r\n        Décryptez-le dans votre QG de gang pour gagner de précieuses informations (nécessite l'adhésion à un gang).",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
  	 	"upgradeActivator": {
  	 	 	"name": {
- 	 	 	 	"trans": "Equipment Calibration Core",
+ 	 	 	 	"trans": "Coeur de calibration d'équipement",
  	 	 	 	"eng": "Equipment Calibration Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments",
+ 	 	 	 	"trans": "Un éclat de mémoire issu du marché noir contient divers algorithmes et schémas autrement cryptés qui sont cruciaux dans le processus d'amélioration des équipements.",
  	 	 	 	"eng": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser0": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (5%)",
+ 	 	 	 	"trans": "Éclat d'IA de calibration (5%)",
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	},
  	 	 	"description": {
